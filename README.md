@@ -7,6 +7,7 @@ This project explores one year of bike-sharing data from **Cyclistic**, a fictio
 ## 📁 Project Files
 
 - `Cyclistic Bike-Share Case Study_V2.Rmd`: Main RMarkdown analysis script
+- `Cyclistic-Bike-Share-Case-Study_V2.html`: Analysis report generated in HTML format
 - `Pivot_Plot01.png`: Visualization of average ride duration by user type
 - `Pivot_Plot02.png`: Visualization comparing average ride duration by user type and weekday
 - `Pivot_Plot03.png`: Visualization of number of rides by user type and day of the week
