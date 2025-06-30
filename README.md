@@ -20,7 +20,7 @@ This project explores one year of bike-sharing data from **Cyclistic**, a fictio
 ![Avg. Ride Duration by User Type and Day of Week](Pivot_Plot02.png)
 ![Analysis of Rides by User Type and Day of the Week](Pivot_Plot03.png)
 ![Top 10 Most Used Start Stations](Top10_01.png)
-![Locations of Top 10 Most Used Start Stations](Top10_02.png)
+
 
 ## 🧹 Data Cleaning Highlights
 
