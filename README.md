@@ -15,9 +15,12 @@ This project explores one year of bike-sharing data from **Cyclistic**, a fictio
 - Casual users ride significantly longer on weekends compared to members.
 - Members have more consistent riding habits throughout the week.
 - The difference in usage patterns indicates that casuals use bikes mostly for leisure, while members use them for commuting.
-
+  
+![Analysis of Average Ride Duration by User Type](Pivot_Plot01.png)
 ![Avg. Ride Duration by User Type and Day of Week](Pivot_Plot02.png)
-
+![Analysis of Rides by User Type and Day of the Week](Pivot_Plot03.png)
+![Top 10 Most Used Start Stations](Top10_01.png)
+![Locations of Top 10 Most Used Start Stations](Top10_02.png)
 ## 🧹 Data Cleaning Highlights
 
 - Removed negative and zero-duration trips
@@ -28,6 +31,7 @@ This project explores one year of bike-sharing data from **Cyclistic**, a fictio
 
 ## 📦 Tools & Libraries
 
+- **PostSQL** for combining individual tables into one single table and managing columns 
 - **R** (tidyverse: `dplyr`, `ggplot2`, `lubridate`, `readr`)
 - **RMarkdown** for report generation
 - Dataset: Provided by [Divvy Bikes - Chicago](https://divvybikes.com/system-data)
